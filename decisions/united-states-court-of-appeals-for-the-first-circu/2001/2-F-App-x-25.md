@@ -1,0 +1,53 @@
+---
+court: "United States Court of Appeals for the First Circuit"
+docket: "00-1466"
+decided: "2001-02-12"
+citations: ["2 F. App'x 25"]
+parties: ["UNITED STATES, Appellee, v. Arthur D’AMARIO, III, Defendant, Appellant."]
+source_url: "https://static.case.law/f-appx/2/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 133901
+cites_cases: ["103 F.3d 76", "116 S.Ct. 1343", "116 S.Ct. 2569", "117 S.Ct. 1328", "118 S.Ct. 106", "120 S.Ct. 958", "121 S.Ct. 272", "134 L.Ed.2d 492", "135 L.Ed.2d 1085", "137 L.Ed.2d 489", "139 L.Ed.2d 60", "145 L.Ed.2d 831", "148 L.Ed.2d 198", "159 F.3d 656", "168 F.3d 558", "18 U.S.C. § 922", "180 F.3d 349", "21 F.3d 1", "213 F.3d 10", "229 F.3d 33", "28 U.S.C. § 2241", "503 U.S. 329", "517 U.S. 1115", "518 U.S. 1027", "520 U.S. 1150", "522 U.S. 835", "528 U.S. 1126", "61 F.3d 70", "64 F.3d 713", "69 F.3d 1215", "940 F.2d 710", "942 F.2d 60", "950 F.2d 1", "96 F.3d 1"]
+---
+
+# United States v. D'Amario
+
+## Head matter
+
+UNITED STATES, Appellee, v. Arthur D’AMARIO, III, Defendant, Appellant.
+No. 00-1466.
+United States Court of Appeals, First Circuit.
+Feb. 12, 2001.
+Arthur D’Amario, III, on brief, pro se.
+Margaret E. Curran, United States Attorney, Donald C. Lockhart and Stephanie S. Browne, Assistant United States Attorneys, on brief, for appellee.
+Before LIPEZ, Circuit Judge, CAMPBELL and CYR, Senior Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Arthur D’Amario, III, appeals his conviction and sentence for being a felon-in-possession of a firearm, in violation of 18 U.S.C. § 922(g)(1). We affirm.
+I.
+Debra Sellers (who dated D’Amario once or twice) obtained an abuse prevention order against D’Amario from a Massachusetts state court, on the ground that D’Amario was harassing her. Thereafter, she received two printed anonymous cards which she believed were sent by D’Amario. In February 1999, Attleboro, Massachusetts police obtained a search warrant for evidence that D’Amario had produced the cards, i.e., “any typewriter, computer, word processor, printer, typewriter ribbons, computer ribbons, computer discs, computer software, hard drive computer components or any other component or part of any instrument or machine capable of producing a printed document.”
+D’Amario lived in Smithfield, Rhode Island and the search was conducted by both Attleboro, Massachusetts and Smithfield, Rhode Island police. The police seized a typewriter and ribbons and, thereafter, while searching in a dresser drawer, found a firearm and ammunition. One of the officers knew at that time that D’Amario had previous convictions in Rhode Island and Massachusetts and that at least one of those convictions resulted in a sentence longer than one year. The officers seized the firearm and ammunition.
+At the time of this search, D’Amario was on probation from both the Massachusetts and Rhode Island convictions and he was arrested a few days after the search and held on Rhode Island state charges of violating his probation. Eventually, he was charged in federal court with being a felon-in-possession, in violation of 18 U.S.C. § 922(g)(1). D’Amario and the government stipulated that (1) he had a prior felony conviction; (2) the weapon met the definition of a firearm; and (3) the gun had traveled in interstate commerce prior to his possession. Nonetheless, D’Amario went to trial before a jury. In essence, he apparently hoped for jury nullification. Although the element of “knowing possession” of the firearm meant that the government only had to prove that D’Amario knew that the weapon was a firearm and voluntarily and intentionally possessed it — something that D’Amario did not contest — D’Amario sought to show that the firearm was legally purchased in 1987, i.e., before his felony conviction, and that he thereafter simply failed to dispose of it.
+D’Amario was convicted and sentenced to 18 months. The sentence reflected a downward departure of one level, giving consideration to the fact that D’Amario’s possession of a weapon, unloaded, in a drawer for twelve years appeared to have been passive, i.e., there was no indication that D’Amario had ever used or brandished the gun.
+II.
+We discuss D’Amario’s appellate issues in the same order in which he has presented them.
+1. Entitlement to judgment of acquittal
+Whether or not, for purposes of precluding the possession of firearms, Rhode Island law makes a distinction between felons convicted of violent versus nonviolent felonies is irrelevant. Section 922(g)(1), which prohibits previously convicted felons from possessing a firearm, makes no such distinction between defendants convicted of violent versus nonviolent felonies. See United States v. Chamberlain, 159 F.3d 656, 660 (1st Cir.1998); United States v. Tavares, 21 F.3d 1, 4 (1st Cir.1994) (en banc). The government did not need to prove that D’Amario knowingly violated the law; it only needed to prove that D’Amario knowingly possessed the firearm, which D’Amario effectively conceded in his testimony. See United States v. Smith, 940 F.2d 710, 713 (1st Cir.1991). Moreover, we have previously rejected a theory of defense in a § 922(g)(1) prosecution based on a defendant’s claim that he had not been advised that he could not possess firearms under federal law and believed that a state’s issuance of a Firearms Identification card, allowing the possession of a firearm under state law, gave him the right to possess firearms. See United States v. Caron, 64 F.3d 713, 714-17 (1st Cir.1995), cert. denied, 518 U.S. 1027, 116 S.Ct. 2569, 135 L.Ed.2d 1085 (1996).
+2. Request for a continuance
+There was no abuse of discretion, much less “a manifest abuse of discretion,” in the district court’s denial of D’Amario’s request for a continuance. See United States v. Orlando-Figueroa, 229 F.3d 33, 39 (1st Cir.2000) (reciting standard). The request was tardily filed and no issue regarding a continuance was even mentioned when D’Amario had the opportunity to do so at a telephonic conference held the week before trial.
+3. The competency examination
+D’Amario’s complaints regarding the competency examination appear baseless as well as moot. Moreover, this court has already reviewed and rejected these complaints. See In re D’Amario, No. 99-1724 (1st Cir. July 23,1999).
+4. Jury instructions
+By failing to reassert his objection after the instructions were given, D’Amario has waived consideration of it. See United States v. Mendoza-Acevedo, 950 F.2d 1, 4 (1st Cir.1991). And, there was no plain error in the court’s refusal to instruct the jury as requested. Contrary to his contention, the Ninth Circuit, in fact, has rejected the assertions proffered by D’Amario with respect to the interstate transportation of firearms, both as to the requirement that the movement have “recently” occurred and the subsumed assertion that the issue of time is a jury question. See United States v. Casterline, 103 F.3d 76, 77 (9th Cir.1996), cert. denied, 522 U.S. 835, 118 S.Ct. 106, 139 L.Ed.2d 60 (1997).
+5. The motion to suppress
+D’Amario reasserts his contentions that the evidence of the gun should have been suppressed because the search warrant lacked probable cause and the gun was outside the scope of the warrant. We review, de novo, a district court’s determination that a given set of facts constituted probable cause, but defer to the court’s findings of fact, unless clearly erroneous. See United States v. Charles, 213 F.3d 10, 18 (1st Cir.), cert. denied, — U.S. -, 121 S.Ct. 272, 148 L.Ed.2d 198 (2000). Upon our review, we find no error in the district court’s denial of D’Amario’s motion to suppress. We need say little beyond that said by the district court in its order of November 3, 1999. The so-called “Cat-low report” does not contradict Sergeant Collins’s statements of what he knew at the time of the search and does not warrant overturning the district court’s refusal to reopen the suppression matter on the basis of that report.
+6. Sentencing
+A district court is not authorized to award credit at sentencing; it is the Attorney General who computes the amount of credit after a defendant begins his federal sentence. See United States v. Wilson, 503 U.S. 329, 112 S.Ct. 1351, 117 L.Ed.2d 593 (1992). D’Amario’s course of relief is to exhaust administrative remedies with the Bureau of Prisons and, if dissatisfied, to seek judicial review pursuant to 28 U.S.C. § 2241. See id. at 335, 112 S.Ct. 1351; Rogers v. United States, 180 F.3d 349, 357-58 (1st Cir.1999), cert. denied, 528 U.S. 1126, 120 S.Ct. 958, 145 L.Ed.2d 831 (2000). Contrary to D’Amario’s assertion, United States v. Benefield, 942 F.2d 60 (1st Cir.1991), is not a “virtually identical situation,” and, in any event, the Sixth Circuit opinion, upon which we relied, was subsequently reversed in Wilson. D’Amario’s suggestion that his counsel was ineffective in not getting his state sentence imposed prior to the federal sentencing is no more than a passing reference, was not presented below, and would require further factual exposition. As such, it is not sufficiently developed for consideration on this direct appeal. See United States v. Martinez-Martinez, 69 F.3d 1215, 1225 (1st Cir.1995), cert. denied, 517 U.S. 1115, 116 S.Ct. 1343, 134 L.Ed.2d 492 (1996).
+D’Amario argues error by the district court in denying his request for a two level downward adjustment for acceptance of responsibility. Contrary to D’Amario’s contention, however, the district court did not erroneously believe that D’Amario was ineligible for such a reduction because he elected to go to trial. Rather, it is evident that the court did not find this to be one of the “ ‘rare situations’ [in which] a defendant may elect to exercise his right to trial and still be eligible for a reduction” for acceptance of responsibility. United States v. Ellis, 168 F.3d 558, 564 (1st Cir.1999) (quoting U.S.S.G. § 3E1.1, application (n.2)). We review the district court’s refusal to award a downward adjustment for acceptance of responsibility for clear error. See United States v. Carrington, 96 F.3d 1, 9 (1st Cir.1996), cert. denied, 520 U.S. 1150, 117 S.Ct. 1328, 137 L.Ed.2d 489 (1997). D’Amario has not met that burden.
+7. Allegedly “newly available” evidence
+This claim, presented in cursory fashion, in any event, is not properly before this court. See United States v. Graciani, 61 F.3d 70, 77 (1st Cir.1995).
+III.
+While this appeal has been pending, D’Amario has filed several miscellaneous motions. In light of our disposition of this appeal, we deny the motions for release pending appeal and for summary reversal. We also deny, as moot, the motion to expedite this appeal.
+The conviction and the sentence are affirmed.
