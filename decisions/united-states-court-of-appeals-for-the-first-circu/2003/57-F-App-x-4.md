@@ -1,0 +1,47 @@
+---
+court: "United States Court of Appeals for the First Circuit"
+docket: "01-2240"
+decided: "2003-01-17"
+citations: ["57 F. App'x 4"]
+parties: ["UNITED STATES of America, Appellee, v. Ramon PINEDA, Defendant, Appellant."]
+source_url: "https://static.case.law/f-appx/57/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 951133
+cites_cases: ["186 F.3d 1", "1967 WL 18349", "206 F.3d 56", "227 F.3d 1", "41 F.3d 785", "47 F.3d 1", "517 U.S. 690", "535 U.S. 55", "64 F.3d 719", "8 U.S.C. § 1326", "85 F.3d 831"]
+---
+
+# United States v. Pineda
+
+## Head matter
+
+UNITED STATES of America, Appellee, v. Ramon PINEDA, Defendant, Appellant.
+No. 01-2240.
+United States Court of Appeals, First Circuit.
+Jan. 17, 2003.
+Mark L. Stevens, on brief, for appellant.
+Theodore D. Chuang, Assistant United States Attorney, with whom Michael J. Sullivan, United States Attorney, were on brief, for appellee.
+Before TORRUELLA, Circuit Judge, CYR and STAHL, Senior Circuit Judges.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant-appellant Ramón Pineda appeals the district court’s acceptance of his guilty plea at his Rule 11 hearing, and the denial of his motion to suppress evidence of his prior deportation. After careful review of the briefs and record in this case, we affirm.
+I. The Facts
+The district court found the pertinent facts to be as follows. Pineda, a citizen of El Salvador, immigrated to the United States in 1980. In 1989, he married an American citizen and took steps to regularize his immigration status. His residency status was revoked in 1992 because his then-estranged wife failed to attend an Immigration and Naturalization Service (“INS”) marital interview. On November 5, 1993, the INS served Pineda with an Order to Show Cause. The ensuing deportation proceedings culminated on July 22, 1994, when an Immigration Judge (“IJ”) found Pineda deportable and ineligible for discretionary relief under § 212(c). The IJ granted Pineda a forty-five day stay of deportation to permit him to file an asylum claim. This stay was extended twice, but Pineda never filed an asylum claim.
+In September 1994, after the expiration of the initial forty-five day stay, Pineda was incarcerated on a state rape charge. On March 2, 1995, the IJ ruled that Pine-da’s failure to file the asylum claim constituted a waiver and abandonment. Consequently, he ordered Pineda deported and, on June 17, 1996, Pineda was deported to El Salvador.
+Pineda re-entered the United States illegally in September of 1996 and was arrested on another state charge in 1997. While in state custody, Pineda was indicted for one count of unlawful reentry to the United States in violation of 8 U.S.C. § 1326. On August 2, 2000, Pineda filed a motion to suppress evidence of his prior deportation on due process grounds. While the suppression motion was pending, the indictment was superseded by one charging illegal entry by an aggravated felon after deportation in violation of 8 U.S.C. § 1326.
+On January 9, 2001, the district court denied Pineda’s motion to suppress evidence of his prior deportation. First, the district court held that although Pineda was not orally advised of his right to appeal the deportation order at the March 2, 1995 hearing, the fact that he received written notice of that right satisfied the requirements of both INS regulations and due process in this case. The district court rejected the claim that oral colloquy regarding appeal rights is mandatory, holding that such inquiry is only required when “the IJ is seeking to extract a waiver of an alien’s right of appeal,” which did not occur in the present case.
+Second, the district court held that although Pineda was never advised — pursuant to Article 36 of the Vienna Convention on Consular Relations, April 24, 1963, 21 U.S.T. 77, 596 U.N.T.S. 261, 1967 WL 18349 (ratified November 24, 1969) (“Vienna Convention”) — of the right of an arrested alien to contact consular officials from his native country, such a failure does not constitute grounds for suppression because “there is no general exclusionary rule for international law violations,” and because the Vienna Convention provides no specific judicial remedy for a violation and confers no private right of action for redress of a violation. Cf. United States v. Li, 206 F.3d 56 (2000) (en banc).
+Third, the district court found that, contrary to Pineda’s claim, Pineda was not deported in absentia. Pineda received a deportation hearing on July 22, 1994, at which he was warned that unless he filed an asylum application within an allotted period of time, the IJ would issue a deportation order without further hearing. Thus, the district court concluded that when the IJ issued the deportation order on March 2, 1995, the IJ simply “did what he told Pineda that he would do” and lawfully issued the final order in accordance with INS regulations. Having found no fundamental flaw in the deportation proceedings, the district court denied the motion to suppress.
+On April 17, 2001, Pineda, pursuant to a plea agreement, entered a conditional plea of guilty to the charge of illegal reentry by an aggravated felon after deportation. Pursuant to Rule 11(a)(2) of the Federal Rules of Criminal Procedure, Pineda reserved his right to appeal the district court’s denial of the motion to suppress. Following the plea colloquy, the district court found that the defendant understood the nature of the charge and that his plea was voluntary, intelligent, and knowing. On August 21, 2001, Pineda was sentenced to seventy months of imprisonment, two years of supervised relief, and a $100.00 special assessment, but he was not fined.
+II. The Guilty Plea
+We review the acceptance of the guilty plea for plain error because Pineda did not seek to withdraw his plea in the district court. See United States v. Vonn, 535 U.S. 55, 122 S.Ct. 1043, 1046, 152 L.Ed.2d 90 (2002); United States v. Gandia-Maysonet, 227 F.3d 1, 5 (1st Cir.2000). We consider the totality of the circumstances to determine whether such plain error exists and to determine whether the guilty plea is voluntary, intelligent, and knowing within the framework of Rule 11. United States v. Hernandez-Wilson, 186 F.3d 1, 12 (1st Cir.1999); United States v. Cotal-Crespo, 47 F.3d 1, 3 (1st Cir.1995).
+In order to be acceptable, a guilty plea must be found to comport with the three core concerns of Rule 11:(1) the absence of coercion; (2) the defendant’s understanding of the nature of the charges against him; and (3) the defendant’s understanding of the consequences of his guilty plea. United States v. Isom, 85 F.3d 831, 835 (1st Cir.1996); Cotal-Crespo, 47 F.3d at 4.
+The thrust of Pineda’s argument is that the Rule 11 colloquy was inadequate as evidenced by Pineda’s ambivalent answers and questions to the judge. After careful consideration of the arguments presented by the parties in their briefs and at oral argument and review of the record, we find that each of the three core Rule 11 concerns have been met and affirm the district court’s acceptance of the guilty plea as voluntary, intelligent, and knowing. We briefly address each of the Rule 11 concerns.
+First, the district court properly found an absence of coercion because Pineda ultimately responded unequivocally that he had not been coerced, and further because Pineda’s responses provided no grounds for believing his guilty plea was indeed coerced.
+Second, the district court correctly found that Pineda understood the charges against him. We agree with the government that the source of any seeming confusion on Pineda’s part arose from the fact that Pineda wanted to properly preserve his right to appeal the ruling on the motion to suppress because he believed his deportation proceeding violated due process. Pineda nonetheless understood the charges against him and ultimately admitted that he had committed the offense conduct described by the government. See Cotal-Crespo, 47 F.3d at 6 (holding that when the government sets forth the elements of the offense and the defendant’s conduct, a defendant’s admission that the allegations are true suffices to show he understands the charges).
+Finally, the district court correctly found that Pineda understood the consequences of his guilty plea. In response to Pineda’s questions, the court thoroughly explained the consequences of pleading guilty. Once again, Pineda’s main concern was his ability to appeal the deportation issue, which the court explained to him would be possible.
+III. The Motion to Suppress
+The motion to suppress evidence of Pineda’s prior deportation presents a mixed question of law and fact, and the ultimate determination of constitutionality is subject to de novo review. Ornelas v. United States, 517 U.S. 690, 699, 116 S.Ct. 1657, 134 L.Ed.2d 911 (1996); United States v. Goldman, 41 F.3d 785, 787 (1st Cir.1994). Any related findings of fact, however, are subject to clear error review. United States v. Martinez-Molina, 64 F.3d 719, 726 (1st Cir.1995).
+Pineda argues that his prior deportation is fundamentally flawed because he was: (1) not properly notified of his right to appeal; (2) improperly deported in absentia; and (3) not notified of his right to contact the consulate of his home country of El Salvador. After careful consideration of the arguments presented and review of the record, we agree with the reasoning presented in the district court’s memorandum and affirm the denial of the motion to suppress.
+Affirmed.
