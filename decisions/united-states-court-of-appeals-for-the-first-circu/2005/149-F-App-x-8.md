@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the First Circuit"
+docket: "05-1495"
+decided: "2005-10-04"
+citations: ["149 F. App'x 8"]
+judges: ["Before BOUDIN, Chief Judge, SELYA and HOWARD, Circuit Judges."]
+parties: ["Zulma VAZQUEZ-ROSARIO, Plaintiff, Appellant, v. Jo Anne B. BARNHART, Commissioner of Social Security, Defendant, Appellee."]
+source_url: "https://static.case.law/f-appx/149/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1298700
+cites_cases: ["108 S.Ct. 713", "172 F.3d 31", "20 C.F.R. § 404.1520", "484 U.S. 1012", "654 F.2d 127", "76 F.3d 15", "803 F.2d 24", "819 F.2d 1", "890 F.2d 520", "98 L.Ed.2d 663"]
+---
+
+# Vazquez-Rosario v. Barnhart
+
+## Head matter
+
+Zulma VAZQUEZ-ROSARIO, Plaintiff, Appellant, v. Jo Anne B. BARNHART, Commissioner of Social Security, Defendant, Appellee.
+No. 05-1495.
+United States Court of Appeals, First Circuit.
+Oct. 4, 2005.
+Juan A. Hernandez Rivera and Raymond Rivera Esteves on brief for appellant.
+H.S. Garcia, United States Attorney, Katherine Gonzalez Valentin, Assistant U.S. Attorney, and Robert M. Peckrill, Deputy Regional Chief Counsel, on brief for appellee.
+Before BOUDIN, Chief Judge, SELYA and HOWARD, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Zulma Vazquez-Rosario left her job at the Motorola Electronics plant in Puerto Rico in October 1996, complaining of pain in her back and arms. What might have been a temporary absence from work while she sought treatment for carpal tunnel syndrome and back pain became more permanent when the plant closed. Thus began Vazquez-Rosario’s odyssey through the state and federal disability agencies, an odyssey that has not yet reached its conclusion.
+In 2003, after hearing, Vazquez-Rosario’s second application for Social Security disability insurance benefits was denied. On appeal to this court, Vazquez-Rosario claims that the substantial evidence does not support the determination of the administrative law judge (ALJ) that she retains the residual functional capacity to perform sedentary, unskilled work. Relatedly, she also claims that the ALJ erred in relying exclusively on the Medical Vocational Guidelines (the Grid), 20 C.F.R. Part 404, Subpart P, Appendix 2, and in failing to consult a vocational expert in her case. We have carefully reviewed the record. We conclude that the ALJ’s findings regarding claimant’s physical limitations are sufficiently supported by the record but remand for consideration of her nonexertional limitations.
+Applying the sequential series of tests enumerated in 20 C.F.R. § 404.1520, the ALJ found that Vazquez-Rosario’s degenerative joint disease and osteoarthritis, as well as her mental impairments, were “severe” and sufficient to prevent her from performing her past relevant work. The ALJ also found, however, that Vazquez-Rosario possessed the residual functional capacity to perform sedentary, unskilled work. Based on that finding and applying the Grid, the ALJ concluded that Vazquez-Rosario is not disabled.
+Vazquez-Rosario challenges this decision on the ground that substantial evidence shows that her occupational base is significantly eroded by her nonexertional impairments. She argues that the ALJ should not have disregarded the psychiatric evaluation conducted by her treating psychiatrist, Dr. José Vazquez Sotomayor. She also points out, correctly, that the ALJ’s conclusion that she suffers from a depressive disorder of only “mild to moderate intensity” is contradicted by the expert opinion provided by the Social Security Administration’s consulting psychiatrist, Dr. Robert Toro Soto. The record also contains substantial and uncontroverted medical evidence regarding claimant’s occupational limitations that was simply ignored by the ALJ.
+Our review is “limited to determining whether the ALJ deployed the correct legal standards and found facts upon the proper quantum of evidence.” Manso-Pizarro v. Secretary of HHS, 76 F.3d 15, 16 (1st Cir.1996) (per curiam). It is the ALJ’s prerogative to resolve conflicting evidence, and we must affirm such a determination, even if the record “arguably could justify a different conclusion, so long as it is supported by substantial evidence.” Rodriguez Pagan v. Secretary of HHS, 819 F.2d 1, 3 (1st Cir.1987) (per curiam), cert. denied, 484 U.S. 1012, 108 S.Ct. 713, 98 L.Ed.2d 663 (1988) (citing Lizotte v. Secretary of HHS, 654 F.2d 127, 128 (1st Cir.1981)). What the ALJ may not do, however, is “ignore medical evidence and substitute his own views for uncontroverted medical opinion.” Nguyen v. Chater, 172 F.3d 31, 34 (1st Cir.1999) (per curiam). It appears that this is precisely what has occurred in this case.
+Both Dr. Vazquez and Dr. Toro Soto conducted detailed evaluations of the occupational limitations caused by claimant’s mental impairments. Both psychiatrists determined that Vazquez-Rosario’s ability to interact with co-workers, complete tasks, follow instructions, and respond appropriately to workplace stressors was severely limited by her mental condition. Dr. Vazquez ultimately diagnosed Vazquez-Rosario as suffering from “major depression with psychotic features,” while Dr. Toro Soto found no psychosis but diagnosed “major depression, single episode.”
+Apparently based on these different diagnoses, the ALJ dismissed Dr. Vazquez’s report in its entirety, claiming that it was “refuted” by Dr. Toro Soto because Dr. Toro Soto did not find that Vazquez-Rosario suffers from psychosis. Curiously, and without explanation, the ALJ then ignored Dr. Toro Soto’s diagnosis of “severe” depression and announced his conclusion that Vazquez-Rosario suffers a depressive disorder of only “mild to moderate intensity.” Although the ALJ claims that this determination is based on “reports of other treating and examining sources,” as well as his own observations of claimant during her hearing, there is no medical evidence in the record to support this diagnosis.
+The record does, however, contain substantial and uncontroverted evidence suggesting that Vazquez-Rosario’s mental impairments adversely affect her residual functional capacity. Both Dr. Vazquez and Dr. Toro Soto conducted detailed evaluations of claimant’s occupational limitations. Both found “marked” to “severe” limitations. The ALJ never mentions either evaluation, and he does not explain why he chose not to credit either expert medical opinion.
+By ignoring the psychiatrists’ findings, the ALJ was able to rely exclusively on the Grid to find Vazquez-Rosario not disabled. In mixed exertional/nonexertional limitations cases, we have cautioned against the mechanical application of the Grid. Da Rosa v. Secretary of HHS, 803 F.2d 24, 26 (1st Cir.1986) (per curiam). We have also noted that “the more that occupational base is reduced by a nonexertional impairment, the less applicable are the factual predicates underlying the Grid rules, and the greater is the need for vocational evidence.” Ortiz v. Secretary of HHS, 890 F.2d 520, 524-25 (1st Cir.1989) (per curiam). When substantial and uncontroverted evidence of significant occupational limitations has been ignored, it is not just the exclusive use of the Grid and the failure to obtain vocational evidence that may be in error — the entire analysis is suspect.
+We vacate the judgment of the district court and direct the district court to remand the case to the Commissioner for further proceedings consistent with this opinion. On remand, the ALJ must reassess, after any proceedings that may be suitable, the severity of claimant’s nonexertional impairments and their impact on her occupational base, taking into account the entire record and obtaining any vocational evidence needed to illuminate the medical record. We express no opinion as to the ultimate outcome of the case.
+Vacated and remanded.
