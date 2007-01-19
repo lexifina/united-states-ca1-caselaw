@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for the First Circuit"
+docket: "06-1364"
+decided: "2007-01-19"
+citations: ["213 F. App'x 8"]
+judges: ["Before BOUDIN, Chief Judge, TORRUELLA and HOWARD, Circuit Judges."]
+parties: ["Bahig F. BISHAY, Plaintiff, Appellant, v. CITIZENS BANK OF MASSACHUSETTS, Defendant, Appellee."]
+source_url: "https://static.case.law/f-appx/213/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4010477
+cites_cases: ["11 F.3d 1092", "2005 WL 2514929", "424 F.3d 83", "452 F.3d 8", "56 Mass.App.Ct. 1104", "776 N.E.2d 1040"]
+---
+
+# Bishay v. Citizens Bank of Massachusetts
+
+## Head matter
+
+Bahig F. BISHAY, Plaintiff, Appellant, v. CITIZENS BANK OF MASSACHUSETTS, Defendant, Appellee.
+No. 06-1364.
+United States Court of Appeals, First Circuit.
+Jan. 19, 2007.
+Bahig F. Bishay, on brief, pro se.
+Elise Busny, James W. Stoll and Brown Rudnick Berlack Israels LLP, on brief, for appellee.
+Before BOUDIN, Chief Judge, TORRUELLA and HOWARD, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+We affirm the judgment of dismissal substantially for the reasons recited in the district court’s memorandum and order, see Bishay v. Citizens Bank of Massachusetts, 2005 WL 2514929 (D.Mass.2005), adding only the following comments.
+To recover an unpaid loan, appellee Citizens Bank of Massachusetts (“Citizens”) brought a state court action in 1995 against appellant Bishay and a company he owned (collectively “Bishay”). Bishay filed two counterclaims and later applied for bankruptcy protection. The ensuing reorganization plan contained a reservation clause, which permitted Bishay to pursue his counterclaims on condition that he procure a letter of credit (“LOC”) to compensate Citizens for its expenses if it prevailed in state court. Bishay did so and then added four new counterclaims in an amended filing. At the summary judgment stage, the superior court concluded that the four new claims were not covered ■by the reservation clause and were subject to dismissal on preclusion grounds. The court rejected the original two claims on other grounds and later awarded attorney’s fees to Citizens. When Bishay refused to make payment, Citizens collected its fees award in 1999 by drawing on the LOC. The state appeals court subsequently affirmed. See Citizens Bank of Massachusetts v. Bahig Bishay, 56 Mass.App.Ct. 1104, 776 N.E.2d 1040 (2002).
+Bishay filed the instant action in 2005. In six counts, he charged that Citizens’ draw on the LOC violated the reorganization plan and was actionable on various grounds including breach of contract. But his underlying allegations mirrored those he had earlier advanced in state court. For example, the LOC draw was supposedly unlawful (or at least premature) because the reservation clause had been misinterpreted and he had been wrongfully denied the opportunity to pursue his four new counterclaims. The district court deemed the complaint “an improper collateral attack” on the state court judgment and concluded that “Bishay’s recasting of his dissatisfaction with the adverse rulings of [the state] courts into a breach of contract claim ... does not alter the fact of preclusion.” We agree.
+The precise nature of Bishay’s breach of contract claim — the only claim he has pursued on appeal — is unclear. At times, he appears to be raising a procedural objection: that disposition of his counterclaims at the summary judgment stage was improper because the reservation clause entitled him to prosecute his claims through trial. At other times, he appears to be raising a more substantive objection: that the reservation clause barred Citizens from relying on a preclusion defense, regardless of the procedural mechanism chosen to do so. Yet this ambiguity need not be resolved, since both of these arguments involve the scope of the reservation clause. That issue has already been decided in state court, whose rulings are entitled to full faith and credit. Bishay cannot now relitigate the matter in federal court. See generally McDonough v. City of Quincy, 452 F.3d 8, 16 (1st Cir.2006) (applying Massachusetts law of claim preclusion); Johnson v. Mahoney, 424 F.3d 83, 93 (1st Cir.2005) (applying Massachusetts law of issue preclusion).
+Bishay argues that his contract claim is not subject to preclusion because it did not exist in 1996 when he filed his amended counterclaims in state court. But his attempt to lump all such claims together for purposes of preclusion analysis is misplaced. The superior court found the counterclaims to be precluded by the bankruptcy court ruling. See, e.g., In re Belmont Realty Corp., 11 F.3d 1092, 1095 (1st Cir.1993) (noting that “normal rules of res judicata apply to decisions of bankruptcy courts”). By contrast, the district court found the contract claim to be precluded by the state court judgment. That the contract claim may not have existed in 1996 had no bearing on the district court’s analysis.
+Bishay also asserts that Citizens “opened the door” to his bringing the contract claim when it drew on the LOC in 1999. Yet his objections to the LOC draw, rather than advancing any new basis for relief, simply reproduce the arguments earlier resolved by the state court regarding the scope of the reservation clause. The district court properly rejected this attempt to get a second bite of the apple.
+Affirmed.
