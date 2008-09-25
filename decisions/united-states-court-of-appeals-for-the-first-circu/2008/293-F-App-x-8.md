@@ -1,0 +1,47 @@
+---
+court: "United States Court of Appeals for the First Circuit"
+docket: "07-2623"
+decided: "2008-09-25"
+citations: ["293 F. App'x 8"]
+parties: ["Eddy SUNARNO, Petitioner, v. Michael B. MUKASEY, Attorney General, Respondent."]
+source_url: "https://static.case.law/f-appx/293/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5733649
+cites_cases: ["427 F.3d 115", "484 F.3d 125", "489 F.3d 399", "505 F.3d 50", "524 F.3d 302", "529 F.3d 49", "531 F.3d 60", "533 F.3d 7", "535 F.3d 15", "540 F.3d 37", "8 C.F.R. § 1003.2", "8 C.F.R. § 1208.16", "8 U.S.C. § 1158", "8 U.S.C. § 1227"]
+---
+
+# Sunarno v. Mukasey
+
+## Head matter
+
+Eddy SUNARNO, Petitioner, v. Michael B. MUKASEY, Attorney General, Respondent.
+No. 07-2623.
+United States Court of Appeals, First Circuit.
+Sept. 25, 2008.
+Cindy S. Chang for petitioner.
+Sarnia Naseem, Trial Attorney, Office of Immigration Litigation, Gregory G. Kat-sas, Acting Assistant Attorney General, Civil Division, and Linda S. Wendtland, Assistant Director, Office of Immigration Litigation, on brief for respondent.
+Before LYNCH, Chief Judge, BOUDIN and LIPEZ, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Petitioner Eddy Sunarno, a native and citizen of Indonesia, seeks review of a decision of the Board of Immigration Appeals (BIA) denying his motion to reopen his immigration proceedings, which consisted of applications for asylum, withholding of removal, and relief under the Convention Against Torture (CAT). Sunarno, who is Catholic, alleges that he was persecuted by Indonesian Muslims on account of his religion. We deny the petition.
+I.
+At a hearing before an Immigration Judge (IJ), Sunarno provided the following testimony. He was born in Indonesia in 1957, and was baptized as a Catholic in 1986. On August 7, 1992, he was on his way to the central market when he was followed and stopped by two Muslim men who demanded to see his identification card (which listed his address and identified him as a Catholic). These men threatened to kill Sunarno and his family if he refused to convert to Islam.
+Several days later, in the middle of the night on August 18, 1992, two men who he believed were the earlier assailants set fire to the convenience store that he owned and operated. Sunarno testified that when the convenience store burned down, he lost $600,000, but that he did not report the fire and the loss to the authorities. Petitioner then moved to Jakarta and experienced no further violence during his two remaining years in Indonesia.
+Sunarno entered the United States on March 18, 1994 as a non-immigrant visitor authorized to remain in the country through September 17, 1994. In a Notice to Appear issued on April 21, 2003, the Department of Homeland Security (DHS) charged petitioner as removable under 8 U.S.C. § 1227(a)(1)(B) as an alien who had overstayed his visa. On October 13, 2003, he filed an asylum application with the former INS.
+At a hearing in July 2005, Sunarno conceded removability, but renewed his request for relief in the form of asylum, ■withholding of removal, and protection under the CAT.
+In an oral decision, the IJ ruled that, because Sunarno had failed to apply for asylum within one year of his arrival in the United States, as required by 8 U.S.C. § 1158(a)(2)(B)(2002), his request for asylum was time-barred. Additionally, the IJ found that petitioner did not qualify for any of the exceptions to the one-year filing deadline. With respect to his CAT and withholding of removal claims, the IJ made several adverse credibility findings and ruled that Sunarno had failed to establish that it was more likely than not that he would suffer persecution or torture upon his return to Indonesia.
+The BIA did not address the IJ’s credibility determination, but upheld the IJ’s ruling that Sunarno’s asylum claim was time-barred and affirmed the denial of his CAT and withholding of removal claims. Sunarno did not petition this court for review of that decision.
+Instead, he filed a motion to reopen, seeking to submit additional testimony and evidence relevant to his claims. This “new” evidence consisted mainly of newspaper articles documenting the prejudice and violence that Christians in Indonesia experienced at the hands of Muslim extremists. The Board denied petitioner’s motion to reopen, finding that the articles were insufficient to establish a pattern or practice of persecution of Christians and “[did] not demonstrate that conditions ha[d] worsened for Christians in Indonesia such that the respondent would now be able to show a clear probability that he would be persecuted in his country of origin on account of his religion.”
+II.
+We review the denial of a motion to reopen for abuse of discretion. Raza v. Gonzales, 484 F.3d 125, 127 (1st Cir.2007). Because motions to reopen implicate significant policy concerns, we must give substantial deference to the Board’s decisions on such requests. See, e.g., Beltre-Veloz v. Mukasey, 533 F.3d 7, 9 (1st Cir.2008) (explaining that motions to reopen are disfavored in light of the strong public interest in finality and speedy processing of claims); Lemus v. Gonzales, 489 F.3d 399, 401 (1st Cir.2007). Accordingly, “we will uphold a denial of a motion to reopen unless we conclude that the BIA either committed a material error of law or exercised its authority in an arbitrary, capricious, or irrational manner.” Beltre-Veloz, 533 F.3d at 9.
+To succeed on a motion to reopen, petitioner must state “new facts that will be proven at a hearing to be held if the motion is granted.” 8 C.F.R. § 1003.2(c)(1); see also Kechichian v. Mu-kasey, 535 F.3d 15, 22 (1st Cir.2008). A motion to reopen must be denied unless the new evidence “establish[es] a prima facie case sufficient to ground a claim of eligibility for the underlying substantive relief.” Raza, 484 F.3d at 128. We address petitioner’s claims for withholding of removal and relief under the CAT in turn.
+An alien applying for withholding of removal must show that it is “more likely than not” that either he will be singled out for persecution upon return to his country of origin, 8 C.F.R. § 1208.16(b)(2), or that there is a “pattern or practice” in his home country of persecution of a group with which he identifies. Id. Sunarno made no such showing in this case.
+In his brief before this court, petitioner does not even attempt to prove that he would be singled out for persecution in Indonesia. Instead, he makes a cursory reference to an alleged “pattern or practice” of discrimination against Christians in Indonesia and draws the unsupported conclusion that “for sure [he] would be persecuted on account of his religion” if forced to return. However, the Board reasonably determined that the additional evidence submitted by Sunarno in connection with his motion to reopen was insufficient for a prima facie showing of eligibility for relief.
+This court has “repeatedly held that ‘discrimination in Indonesia does not, without more, qualify a Christian Indonesian national for asylum.’ ” Datau v. Mukasey, 540 F.3d 37, 41-42 (1st Cir.2008) (quoting Sombah v. Mukasey, 529 F.3d 49, 51 (1st Cir.2008)); see also Pulisir v. Mukasey, 524 F.3d 302, 308-09 (1st Cir.2008); Kho v. Keisler, 505 F.3d 50, 58 (1st Cir.2007). The new evidence submitted along with petitioner’s motion to reopen did not establish anything “more” than isolated incidents of such discrimination. As the Board noted, the new evidence, which consisted mainly of news articles about specific crimes in Indonesia, merely indicated that “Muslim extremists continue to carry out terrorist attacks and that Christians are sometimes targeted for violence.” Petitioner did not establish a change in country conditions that would have allowed him to prove that, if returned to Indonesia, he was more likely than not to be persecuted as part of a general pattern or practice. Therefore, his claim for withholding of removal must fail.
+In order to qualify for relief under the CAT, an alien must show that it is more likely than not that he would be tortured upon return to his country. 8 C.F.R. § 1208.16(b)(2); Jamal v. Mukasey, 531 F.3d 60, 66 (1st Cir.2008). The new evidence in Sunarno’s motion to reopen was plainly insufficient to establish a prima facie case for relief under the CAT. In any event, because petitioner’s brief does not make any argument about his eligibility for relief under the CAT, the issue has been waived.
+Petition denied.
+. Petitioner’s asylum application also indicates that while he and his family watched the store burn down from his nearby home, his father collapsed and died. Petitioner did not mention witnessing the store's destruction or the death of his father during his direct testimony before the IJ, and when cross-examined by the government’s attorney, he stated that he had forgotten these facts.
+. Although his motion to reopen also alleged a due process violation based on a problem with the interpreter at his hearing, Sunarno failed to mention this argument in the brief submitted to this court, and it has therefore been waived. Nikijuluw v. Gonzales, 427 F.3d 115, 120 n. 3 (1st Cir.2005).
+. Indeed, in recent decisions, we have noted an improvement in conditions for Indonesian Christians and an "advance in inter-religious tolerance.” See, e.g., Datau, 540 F.3d at 41-42; Nikijuluw v. Gonzales, 427 F.3d 115, 119, 122 (1st Cir.2005).
